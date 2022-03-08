@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tasplace",
+  "name": "TASPlace mod",
+  "description": "A better fastplace mod to work on very low tikrates.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hashblen"],
+  "credits": "Hashblen",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
