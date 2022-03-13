@@ -1,7 +1,7 @@
 [
 {
   "modid": "tasplace",
-  "name": "TASPlace mod",
+  "name": "TASPlace",
   "description": "A better fastplace mod to work on very low tickrates.",
   "version": "${version}",
   "mcversion": "${mcversion}",
